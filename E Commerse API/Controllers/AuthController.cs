@@ -49,7 +49,7 @@ namespace E_Commerse_API.Controllers
             var userDb = apiContext.users.FirstOrDefault(e => e.Username == request.Username);
             if (userDb == null)
             {
-                return BadRequest();
+                return BadRequest("Wrong UserName");
             }
             else
             {
