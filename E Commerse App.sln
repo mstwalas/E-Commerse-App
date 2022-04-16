@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E Commerse App", "E Commerse App\E Commerse App.csproj", "{2239D5D8-63BD-4E0D-B04A-B6C259356019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E Commerse API", "E Commerse API\E Commerse API.csproj", "{9F6FB5B5-F5B6-4152-AC8B-932C53273A6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2239D5D8-63BD-4E0D-B04A-B6C259356019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2239D5D8-63BD-4E0D-B04A-B6C259356019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2239D5D8-63BD-4E0D-B04A-B6C259356019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2239D5D8-63BD-4E0D-B04A-B6C259356019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6FB5B5-F5B6-4152-AC8B-932C53273A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6FB5B5-F5B6-4152-AC8B-932C53273A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6FB5B5-F5B6-4152-AC8B-932C53273A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6FB5B5-F5B6-4152-AC8B-932C53273A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCE7D3AA-F86C-4E59-8966-C51F8A20A338}
+	EndGlobalSection
+EndGlobal
